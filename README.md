@@ -1,10 +1,6 @@
 - 👋 Hola mi nombre es Jonay
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Estoy interesado en muy interesado en el mundo de la programación, por interes personal y profesional
+- 🌱 Actualmente estoy desarrollando mis habilidades en JavaScript y pronto comenzaré un curso de Node.JS.
+- 💞️ 
+- 📫 Puedes ver mi CV en: -direccion linkedin. 
 
-<!---
-JonayHQ/JonayHQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
